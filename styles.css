@@ -1,0 +1,53 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+
+.business-card{
+   background-color: #001233;
+   color: white;
+   width: 500px;
+   display: flex;
+   justify-content: space-around;
+   margin: 0 auto;
+   text-align: center;
+   padding: 20px;
+  border-radius: 20px;
+  border: 5px solid #0466C8;
+}
+
+.image {
+    width: 150px;
+    border-radius: 50px;
+    border: 5px solid #0466C8;
+   
+}
+
+
+.row {
+  display: flex;
+  gap: 15px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.str {
+    color: #89023e
+}
+
+.text{
+    padding-top: 5px;
+}
+
+.social {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.s-logo {
+    width: 35px;
+}
